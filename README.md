@@ -7,7 +7,7 @@ This project implements a system that captures live television signals, extracts
 
 The system is divided into three independent processes. The following diagram illustrates the implemented architecture and processing workflow:
 
-![System Workflow Diagram](clasificador_tiempo_real.png)
+![System Workflow Diagram](system_workflow_diagram.png)
 
 **Color legend:**
 
